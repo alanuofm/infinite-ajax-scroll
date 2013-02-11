@@ -130,7 +130,7 @@
          */
         function hide_pagination()
         {
-            $(opts.pagination).hide();
+            //$(opts.pagination).hide();
         }
 
         /**
